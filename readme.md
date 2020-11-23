@@ -1,10 +1,6 @@
 # auto_assign
 
-forked from liangheming's repo
-
-[repo]: https://github.com/liangheming/auto_assignv2
-
-,  just for learning
+forked from liangheming's repo [repo]: https://github.com/liangheming/auto_assignv2 ,  just for learning
 
 ## result
 
